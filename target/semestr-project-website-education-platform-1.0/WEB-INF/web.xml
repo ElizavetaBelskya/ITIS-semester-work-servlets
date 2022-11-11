@@ -1,0 +1,22 @@
+<web-app xmlns="http://xmlns.jcp.org/xml/ns/javaee"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee
+		 http://xmlns.jcp.org/xml/ns/javaee/web-app_4_2.xsd"
+         version="4.0">
+
+    <jsp-config>
+      <taglib>
+        <taglib-uri>myTags</taglib-uri>
+        <taglib-location>/WEB-INF/tags/myTags.tld</taglib-location>
+      </taglib>
+    </jsp-config>
+
+    <session-config>
+        <session-timeout>20</session-timeout>
+        <cookie-config>
+            <name>MY_JSESSIONID_</name>
+        </cookie-config>
+    </session-config>
+
+
+</web-app>

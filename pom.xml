@@ -6,7 +6,7 @@
   <artifactId>semestr-project-website-education-platform</artifactId>
   <packaging>war</packaging>
   <version>1.0</version>
-  <name>semestr-project-website-education-platform Maven Webapp</name>
+  <name>semester-project-website-education-platform Maven Webapp</name>
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>

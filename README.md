@@ -1,4 +1,4 @@
-# ITIS semester work (webapp) - Independent Education
+## Independent Education Servlets
 
 Этот проект представляет собой семестровую работу, выполненную Елизаветой Бельской, 
 студенткой Института информационных технологий и интеллектуальных систем 
